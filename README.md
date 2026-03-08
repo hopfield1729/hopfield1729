@@ -9,6 +9,8 @@
 
 ### About
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailey-arm&layout=compact&theme=tokyonight)
+
 MMath '25, University of Warwick. Interested in Algebraic Geometry, Commutative Algebra and K-Theory. *The profile pic is not me — that's [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck).*
 
 Dissertation on implementation of novel bilevel optimisation methods for optimal hyperparameter selection in image denoising.
