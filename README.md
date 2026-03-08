@@ -9,7 +9,7 @@
 
 ### About
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailey-arm&layout=compact&theme=tokyonight)
+![Snake animation](https://github.com/bailey-arm/bailey-arm/blob/output/github-contribution-grid-snake.svg)
 
 MMath '25, University of Warwick. Interested in Algebraic Geometry, Commutative Algebra and K-Theory. *The profile pic is not me — that's [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck).*
 
