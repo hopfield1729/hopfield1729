@@ -21,6 +21,8 @@ Dissertation on implementation of novel bilevel optimisation methods for optimal
 
 Focused on portfolio construction for ECM (index rebal, blocks/fundraising).
 
+![Quant Research](anims/status.svg)
+
 ---
 
 ### Tech

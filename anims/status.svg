@@ -1,0 +1,30 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bar { fill: #00ff88; opacity: 0; animation: fadeIn 2s infinite; }
+    .line { stroke: #555; stroke-width: 1; stroke-dasharray: 4; }
+    .trend { fill: none; stroke: #00d4ff; stroke-width: 2; stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 4s linear infinite; }
+    
+    @keyframes fadeIn {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 1; }
+    }
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+  </style>
+
+  <line x1="0" y1="50" x2="400" y2="50" class="line" />
+  <line x1="0" y1="100" x2="400" y2="100" class="line" />
+  <line x1="0" y1="150" x2="400" y2="150" class="line" />
+
+  <rect class="bar" x="50" y="120" width="10" height="40" style="animation-delay: 0.1s;" />
+  <rect class="bar" x="80" y="100" width="10" height="60" style="animation-delay: 0.3s;" />
+  <rect class="bar" x="110" y="130" width="10" height="30" style="animation-delay: 0.5s;" />
+  <rect class="bar" x="140" y="80" width="10" height="80" style="animation-delay: 0.7s;" />
+  <rect class="bar" x="170" y="60" width="10" height="100" style="animation-delay: 0.9s;" />
+  <rect class="bar" x="200" y="90" width="10" height="70" style="animation-delay: 1.1s;" />
+
+  <path class="trend" d="M0,180 L50,140 L100,150 L150,90 L200,100 L250,50 L300,70 L400,20" />
+  
+  <text x="10" y="20" font-family="monospace" font-size="12" fill="#888">ALPHA_GENERATOR_V2</text>
+</svg>
