@@ -5,3 +5,5 @@ Experience at Millennium (Volatility, Equity Derivatives & Exotics), Schonfeld (
 <img width="300" alt="Screenshot 2026-03-08 at 3 00 43 pm" src="https://github.com/user-attachments/assets/80188238-fd45-4947-9084-41b460f4672f" />
 
 The pfp is not me - it is Alexander Grothendieck https://en.wikipedia.org/wiki/Alexander_Grothendieck
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pMqcPZToho?theme=dark)
