@@ -2,4 +2,4 @@ Masters in Math (MMath '25) from the University of Warwick. Interested in Algebr
 
 Experience at Millennium (Volatility, Equity Derivatives & Exotics), Schonfeld (Quant Researcher in Emerging Markets pod). Focused on portfolio construction for ECM (index rebal, blocks/fundraising).
 
-The pfp is not me - it is Alexander Grothendieck {https://en.wikipedia.org/wiki/Alexander_Grothendieck}
+The pfp is not me - it is Alexander Grothendieck https://en.wikipedia.org/wiki/Alexander_Grothendieck
