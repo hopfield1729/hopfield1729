@@ -14,7 +14,7 @@ Pure Mathematic interests: Algebraic Geometry, Commutative Algebra and K-Theory.
 
 Other research interests: adversarial learning, agentic proof construction, symbolic machine learning. 
 
-Dissertation on implementation of novel bilevel optimisation methods for optimal hyperparameter selection in image denoising.
+Dissertation focused on implementation of novel bilevel optimisation methods for optimal hyperparameter selection in image denoising.
 
 **Work Experience:**
 - **Millennium** — Volatility, Equity Derivatives & Exotics
@@ -25,9 +25,6 @@ Dissertation on implementation of novel bilevel optimisation methods for optimal
 - **Fast and Accurate Symbolic Learning in C++**
 - **Systematic Research on Prediction Markets**
 - **Agentic Proof Construction with Dynamic Meetings**
-
-![Quant Research](anims/status.svg)
-
 ---
 
 ### Tech
