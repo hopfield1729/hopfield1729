@@ -8,18 +8,23 @@
 ---
 
 ### About
+MMath '25, University of Warwick. *The profile pic is not me — that's [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck).*
 
-![Snake animation](https://github.com/bailey-arm/bailey-arm/blob/output/github-contribution-grid-snake.svg)
+Pure Mathematic interests: Algebraic Geometry, Commutative Algebra and K-Theory.
 
-MMath '25, University of Warwick. Interested in Algebraic Geometry, Commutative Algebra and K-Theory. *The profile pic is not me — that's [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck).*
+Other research interests: adversarial learning, agentic proof construction, symbolic machine learning. 
 
 Dissertation on implementation of novel bilevel optimisation methods for optimal hyperparameter selection in image denoising.
 
-**Experience:**
+**Work Experience:**
 - **Millennium** — Volatility, Equity Derivatives & Exotics
-- **Schonfeld** — Quant Researcher, Emerging Markets pod
+- **Schonfeld** — Quant Researcher, Emerging Markets pod. Focused on portfolio construction for ECM (index rebal, blocks/fundraising).
 
-Focused on portfolio construction for ECM (index rebal, blocks/fundraising).
+**Current Research**
+- **A Reinforcement and Adversarial Learning Approach for Trajectory Construction and Missile Destruction**
+- **Fast and Accurate Symbolic Learning in C++**
+- **Systematic Research on Prediction Markets**
+- **Agentic Proof Construction with Dynamic Meetings**
 
 ![Quant Research](anims/status.svg)
 
