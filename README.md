@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="400" src="https://github.com/user-attachments/assets/80188238-fd45-4947-9084-41b460f4672f" />
+<img width="200" src="https://github.com/user-attachments/assets/80188238-fd45-4947-9084-41b460f4672f" />
 
 *My Masters Dissertation*
 </div>
